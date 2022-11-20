@@ -84,7 +84,7 @@ form textarea {
   font-size: 20pt;
   border-radius: 5px;
   margin-top: 50px;
-  margin-left: 100px;
+  margin-left: 10px;
   color: #e0f2ff;
   border: none;
 }
@@ -93,7 +93,7 @@ form textarea {
   background-color: #3ffb00;
 }
 #exit {
-  background: url("/zad8/cross-svgrepo-com.svg") center 100% no-repeat;
+  background: url("./cross-svgrepo-com.svg") center 100% no-repeat;
   height: 22px;
   width: 22px;
   position: absolute;
